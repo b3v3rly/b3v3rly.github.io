@@ -3,16 +3,20 @@ layout: default
 title: Home
 ---
 
-# Welcome
+# 🌸 Welcome to Bev's Cybersecurity Blog
 
-Hello! I'm Bev.
+Hi! I'm Bev, a cybersecurity student passionate about:
 
-This website contains:
+- 🔐 Cybersecurity
+- 🌐 Networking
+- 🚩 CTF Competitions
+
+## 📚 What You'll Find Here
 
 - CTF Writeups
-- Cybersecurity Notes
+- Study Notes
 - University Projects
 
-## Recent Posts
+## ✨ Latest Writeups
 
-Check out my latest writeups below.
+Stay tuned for upcoming challenge writeups and learning notes.
