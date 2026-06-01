@@ -4,38 +4,52 @@
 @import "minima";
 
 body {
-    background-color: #fffaf7;
-    color: #5a4a4a;
+    background: #fff7f5;
+    color: #5c4b51;
 }
 
 .site-header {
-    background-color: #ffe4ec;
-    border-top: 5px solid #ff9eb5;
+    background: #ffd6e5;
+    border-top: 8px solid #ff85a2;
+    border-bottom: none;
 }
 
-.site-title {
-    color: #d86b8c !important;
-    font-weight: bold;
+.site-title,
+.site-title:visited {
+    color: #d63384 !important;
+    font-weight: 700;
 }
 
-a {
-    color: #e87ca3;
+.site-nav .page-link {
+    color: #d63384 !important;
+}
+
+.page-content {
+    background: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+h1, h2, h3 {
+    color: #d63384;
+}
+
+a {        
+    color: #ff5c8a;
 }
 
 a:hover {
-    color: #c85f84;
+    color: #c2185b;
 }
 
 .site-footer {
-    background-color: #fff0f5;
-}
-
-.post-title {
-    color: #d86b8c;
+    background: #ffeaf2;
 }
 
 code {
-    background-color: #fff0f5;
-    border-radius: 4px;
-    padding: 2px 4px;
-}
+    background: #ffeaf2;
+    border-radius: 6px;
+}nbnb.
